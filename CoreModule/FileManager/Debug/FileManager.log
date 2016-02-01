@@ -1,0 +1,6 @@
+﻿  FileSystem.cpp
+  FileMgr.cpp
+c:\users\apple\desktop\socketdemo2\filemanager\filemgr.cpp(45): warning C4018: '<' : signed/unsigned mismatch
+  Generating Code...
+MSVCRTD.lib(crtexe.obj) : error LNK2019: unresolved external symbol _main referenced in function ___tmainCRTStartup
+C:\Users\Apple\Desktop\SocketDemo2\Debug\FileManager.exe : fatal error LNK1120: 1 unresolved externals

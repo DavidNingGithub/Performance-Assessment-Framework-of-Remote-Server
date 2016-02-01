@@ -1,0 +1,17 @@
+﻿  XmlWriter.cpp
+  Tokenizer.cpp
+  SemiExpression.cpp
+  ScopeStack.cpp
+  Parser.cpp
+  MTree.cpp
+  MNode.cpp
+  FoldingRules.cpp
+  Exec.cpp
+  Displayer.cpp
+  ConfigureParser.cpp
+  Comparer.cpp
+  Compare.cpp
+  ActionsAndRules.cpp
+  Generating Code...
+     Creating library C:\Users\Apple\Desktop\WPF2\use - 副本\Debug\Compareself.lib and object C:\Users\Apple\Desktop\WPF2\use - 副本\Debug\Compareself.exp
+  Compareself.vcxproj -> C:\Users\Apple\Desktop\WPF2\use - 副本\Debug\Compareself.dll

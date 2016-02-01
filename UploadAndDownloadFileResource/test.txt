@@ -1,0 +1,15 @@
+Socket2Demo
+Purpose:
+Illustrate very simple message framing by lines, and support for multiple concurrent senders.  Only text lines are supported in this demo.  The structure of the Sender and Receiver is appropriate for demonstrations.  However, you will need to make significant changes to support a reusable channel model.  This package supplies Sender and Receiver classes, and uses Sockets v3.1, Threads v1.1, Locks v1.1, and BlockingQueue v1.1.
+You will need to make the following changes to support projects in CSE687:
+1.	Add more sophisticated message framing, either XML messages or HTTP  style messages.
+2.	Ability of send thread to reconnect to another address.  Presumably that would require message inspection.
+3.	Provide ability to send binary data.  You could do that by:
+a.	structuring messages as XML with base64 encoded bodies.
+b.	structuring messages with header lines, the last of which specifies a length in bytes for the remaining part of the message.  Note that you don¡¯t really need to have the sender pack bytes into its sent message.  It simply needs to send the header then send a block of the specified length.
+4.	Replace the processing in Sender and Receiver main functions with something appropriate for a reusable channel.
+5.	Remove the demonstration console I/O.
+#text||#tyt||#jkjk||#bjgt||#jhjkh
+Jim Fawcett
+CSE687 ¨C Object Oriented Design
+Spring 2013

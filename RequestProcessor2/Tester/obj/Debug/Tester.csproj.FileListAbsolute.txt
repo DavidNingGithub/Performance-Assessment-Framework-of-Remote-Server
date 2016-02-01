@@ -1,0 +1,6 @@
+C:\TDDOWNLOAD\RequestProcessor2\Tester\bin\Debug\Tester.exe.config
+C:\TDDOWNLOAD\RequestProcessor2\Tester\bin\Debug\Tester.exe
+C:\TDDOWNLOAD\RequestProcessor2\Tester\bin\Debug\Tester.pdb
+C:\TDDOWNLOAD\RequestProcessor2\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\TDDOWNLOAD\RequestProcessor2\Tester\obj\Debug\Tester.exe
+C:\TDDOWNLOAD\RequestProcessor2\Tester\obj\Debug\Tester.pdb

@@ -1,0 +1,7 @@
+﻿  TextSearch.cpp
+c:\users\apple\desktop\tester不可用\textsearch\filesystem.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  FileSystem.cpp
+c:\users\apple\desktop\tester不可用\textsearch\filesystem.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\apple\desktop\tester不可用\textsearch\filesystem.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  TextSearch.vcxproj -> C:\Users\Apple\Desktop\Tester不可用\Debug\TextSearch.exe

@@ -1,0 +1,36 @@
+C:\Users\Apple\Desktop\Tester不可用 - 副本 - 副本\Debug\use.exe.config
+C:\Users\Apple\Desktop\Tester不可用 - 副本 - 副本\Debug\use.exe
+C:\Users\Apple\Desktop\Tester不可用 - 副本 - 副本\Debug\use.pdb
+C:\Users\Apple\Desktop\Tester不可用 - 副本 - 副本\use\obj\Debug\use.csprojResolveAssemblyReference.cache
+C:\Users\Apple\Desktop\Tester不可用 - 副本 - 副本\use\obj\Debug\use.exe
+C:\Users\Apple\Desktop\Tester不可用 - 副本 - 副本\use\obj\Debug\use.pdb
+C:\Users\Apple\Desktop\WPF2\Tester不可用Download可保留 - 副本 (3)\Debug\use.exe.config
+C:\Users\Apple\Desktop\WPF2\Tester不可用Download可保留 - 副本 (3)\Debug\use.exe
+C:\Users\Apple\Desktop\WPF2\Tester不可用Download可保留 - 副本 (3)\Debug\use.pdb
+C:\Users\Apple\Desktop\WPF2\Tester不可用Download可保留 - 副本 (3)\use\obj\Debug\use.csprojResolveAssemblyReference.cache
+C:\Users\Apple\Desktop\WPF2\Tester不可用Download可保留 - 副本 (3)\use\obj\Debug\use.exe
+C:\Users\Apple\Desktop\WPF2\Tester不可用Download可保留 - 副本 (3)\use\obj\Debug\use.pdb
+C:\Users\Apple\Desktop\WPF2\Tester不可用KAISHI\Debug\use.exe.config
+C:\Users\Apple\Desktop\WPF2\Tester不可用KAISHI\Debug\use.exe
+C:\Users\Apple\Desktop\WPF2\Tester不可用KAISHI\Debug\use.pdb
+C:\Users\Apple\Desktop\WPF2\Tester不可用KAISHI\use\obj\Debug\use.csprojResolveAssemblyReference.cache
+C:\Users\Apple\Desktop\WPF2\Tester不可用KAISHI\use\obj\Debug\use.exe
+C:\Users\Apple\Desktop\WPF2\Tester不可用KAISHI\use\obj\Debug\use.pdb
+C:\Users\Apple\Desktop\WPF2\project4321 - 副本\Debug\use.exe.config
+C:\Users\Apple\Desktop\WPF2\project4321 - 副本\Debug\use.exe
+C:\Users\Apple\Desktop\WPF2\project4321 - 副本\Debug\use.pdb
+C:\Users\Apple\Desktop\WPF2\project4321 - 副本\use\obj\Debug\use.csprojResolveAssemblyReference.cache
+C:\Users\Apple\Desktop\WPF2\project4321 - 副本\use\obj\Debug\use.exe
+C:\Users\Apple\Desktop\WPF2\project4321 - 副本\use\obj\Debug\use.pdb
+C:\Users\Apple\Desktop\WPF2\use\Debug\use.exe.config
+C:\Users\Apple\Desktop\WPF2\use\Debug\use.exe
+C:\Users\Apple\Desktop\WPF2\use\Debug\use.pdb
+C:\Users\Apple\Desktop\WPF2\use\use\obj\Debug\use.csprojResolveAssemblyReference.cache
+C:\Users\Apple\Desktop\WPF2\use\use\obj\Debug\use.exe
+C:\Users\Apple\Desktop\WPF2\use\use\obj\Debug\use.pdb
+C:\Users\Apple\Desktop\WPF2\use - 副本\Debug\use.exe.config
+C:\Users\Apple\Desktop\WPF2\use - 副本\Debug\use.exe
+C:\Users\Apple\Desktop\WPF2\use - 副本\Debug\use.pdb
+C:\Users\Apple\Desktop\WPF2\use - 副本\use\obj\Debug\use.csprojResolveAssemblyReference.cache
+C:\Users\Apple\Desktop\WPF2\use - 副本\use\obj\Debug\use.exe
+C:\Users\Apple\Desktop\WPF2\use - 副本\use\obj\Debug\use.pdb

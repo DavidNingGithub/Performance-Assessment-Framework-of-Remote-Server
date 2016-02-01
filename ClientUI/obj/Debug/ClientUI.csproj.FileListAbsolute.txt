@@ -1,0 +1,117 @@
+C:\Users\Apple\Desktop\Tester不可用 - 副本 - 副本\Debug\ClientUI.exe.config
+C:\Users\Apple\Desktop\Tester不可用 - 副本 - 副本\Debug\ClientUI.exe
+C:\Users\Apple\Desktop\Tester不可用 - 副本 - 副本\Debug\ClientUI.pdb
+C:\Users\Apple\Desktop\Tester不可用 - 副本 - 副本\ClientUI\obj\Debug\ClientUI.csprojResolveAssemblyReference.cache
+C:\Users\Apple\Desktop\Tester不可用 - 副本 - 副本\ClientUI\obj\Debug\MainWindow.baml
+C:\Users\Apple\Desktop\Tester不可用 - 副本 - 副本\ClientUI\obj\Debug\MainWindow.g.cs
+C:\Users\Apple\Desktop\Tester不可用 - 副本 - 副本\ClientUI\obj\Debug\App.g.cs
+C:\Users\Apple\Desktop\Tester不可用 - 副本 - 副本\ClientUI\obj\Debug\ClientUI_MarkupCompile.cache
+C:\Users\Apple\Desktop\Tester不可用 - 副本 - 副本\ClientUI\obj\Debug\ClientUI.g.resources
+C:\Users\Apple\Desktop\Tester不可用 - 副本 - 副本\ClientUI\obj\Debug\ClientUI.Properties.Resources.resources
+C:\Users\Apple\Desktop\Tester不可用 - 副本 - 副本\ClientUI\obj\Debug\ClientUI.csproj.GenerateResource.Cache
+C:\Users\Apple\Desktop\Tester不可用 - 副本 - 副本\ClientUI\obj\Debug\ClientUI.exe
+C:\Users\Apple\Desktop\Tester不可用 - 副本 - 副本\ClientUI\obj\Debug\ClientUI.pdb
+C:\Users\Apple\Desktop\Tester不可用Download可用\Debug\ClientUI.exe.config
+C:\Users\Apple\Desktop\Tester不可用Download可用\ClientUI\obj\Debug\ClientUI.exe
+C:\Users\Apple\Desktop\Tester不可用Download可用\ClientUI\obj\Debug\ClientUI.pdb
+C:\Users\Apple\Desktop\Tester不可用Download可用\Debug\ClientUI.exe
+C:\Users\Apple\Desktop\Tester不可用Download可用\Debug\ClientUI.pdb
+C:\Users\Apple\Desktop\Tester不可用Download可用\ClientUI\obj\Debug\ClientUI.csprojResolveAssemblyReference.cache
+C:\Users\Apple\Desktop\Tester不可用Download可用\ClientUI\obj\Debug\MainWindow.baml
+C:\Users\Apple\Desktop\Tester不可用Download可用\ClientUI\obj\Debug\MainWindow.g.cs
+C:\Users\Apple\Desktop\Tester不可用Download可用\ClientUI\obj\Debug\App.g.cs
+C:\Users\Apple\Desktop\Tester不可用Download可用\ClientUI\obj\Debug\ClientUI_MarkupCompile.cache
+C:\Users\Apple\Desktop\Tester不可用Download可用\ClientUI\obj\Debug\ClientUI.g.resources
+C:\Users\Apple\Desktop\Tester不可用Download可用\ClientUI\obj\Debug\ClientUI.Properties.Resources.resources
+C:\Users\Apple\Desktop\Tester不可用Download可用\ClientUI\obj\Debug\ClientUI.csproj.GenerateResource.Cache
+C:\Users\Apple\Desktop\Tester不可用Download可保留\Debug\ClientUI.exe.config
+C:\Users\Apple\Desktop\Tester不可用Download可保留\ClientUI\obj\Debug\ClientUI.exe
+C:\Users\Apple\Desktop\Tester不可用Download可保留\ClientUI\obj\Debug\ClientUI.pdb
+C:\Users\Apple\Desktop\Tester不可用Download可保留\Debug\ClientUI.exe
+C:\Users\Apple\Desktop\Tester不可用Download可保留\Debug\ClientUI.pdb
+C:\Users\Apple\Desktop\Tester不可用Download可保留\ClientUI\obj\Debug\ClientUI.csprojResolveAssemblyReference.cache
+C:\Users\Apple\Desktop\Tester不可用Download可保留\ClientUI\obj\Debug\MainWindow.baml
+C:\Users\Apple\Desktop\Tester不可用Download可保留\ClientUI\obj\Debug\MainWindow.g.cs
+C:\Users\Apple\Desktop\Tester不可用Download可保留\ClientUI\obj\Debug\App.g.cs
+C:\Users\Apple\Desktop\Tester不可用Download可保留\ClientUI\obj\Debug\ClientUI_MarkupCompile.cache
+C:\Users\Apple\Desktop\Tester不可用Download可保留\ClientUI\obj\Debug\ClientUI.g.resources
+C:\Users\Apple\Desktop\Tester不可用Download可保留\ClientUI\obj\Debug\ClientUI.Properties.Resources.resources
+C:\Users\Apple\Desktop\Tester不可用Download可保留\ClientUI\obj\Debug\ClientUI.csproj.GenerateResource.Cache
+C:\Users\Apple\Desktop\Tester不可用Download可保留 - 副本 (3)\Debug\ClientUI.exe.config
+C:\Users\Apple\Desktop\Tester不可用Download可保留 - 副本 (3)\ClientUI\obj\Debug\ClientUI.exe
+C:\Users\Apple\Desktop\Tester不可用Download可保留 - 副本 (3)\ClientUI\obj\Debug\ClientUI.pdb
+C:\Users\Apple\Desktop\Tester不可用Download可保留 - 副本 (3)\Debug\ClientUI.exe
+C:\Users\Apple\Desktop\Tester不可用Download可保留 - 副本 (3)\Debug\ClientUI.pdb
+C:\Users\Apple\Desktop\Tester不可用Download可保留 - 副本 (3)\ClientUI\obj\Debug\ClientUI.csprojResolveAssemblyReference.cache
+C:\Users\Apple\Desktop\Tester不可用Download可保留 - 副本 (3)\ClientUI\obj\Debug\MainWindow.baml
+C:\Users\Apple\Desktop\Tester不可用Download可保留 - 副本 (3)\ClientUI\obj\Debug\MainWindow.g.cs
+C:\Users\Apple\Desktop\Tester不可用Download可保留 - 副本 (3)\ClientUI\obj\Debug\App.g.cs
+C:\Users\Apple\Desktop\Tester不可用Download可保留 - 副本 (3)\ClientUI\obj\Debug\ClientUI_MarkupCompile.cache
+C:\Users\Apple\Desktop\Tester不可用Download可保留 - 副本 (3)\ClientUI\obj\Debug\ClientUI.g.resources
+C:\Users\Apple\Desktop\Tester不可用Download可保留 - 副本 (3)\ClientUI\obj\Debug\ClientUI.Properties.Resources.resources
+C:\Users\Apple\Desktop\Tester不可用Download可保留 - 副本 (3)\ClientUI\obj\Debug\ClientUI.csproj.GenerateResource.Cache
+C:\Users\Apple\Desktop\WPF2\Tester不可用Download可保留 - 副本 (3)\Debug\ClientUI.exe.config
+C:\Users\Apple\Desktop\WPF2\Tester不可用Download可保留 - 副本 (3)\Debug\ClientUI.exe
+C:\Users\Apple\Desktop\WPF2\Tester不可用Download可保留 - 副本 (3)\Debug\ClientUI.pdb
+C:\Users\Apple\Desktop\WPF2\Tester不可用Download可保留 - 副本 (3)\ClientUI\obj\Debug\ClientUI.csprojResolveAssemblyReference.cache
+C:\Users\Apple\Desktop\WPF2\Tester不可用Download可保留 - 副本 (3)\ClientUI\obj\Debug\MainWindow.baml
+C:\Users\Apple\Desktop\WPF2\Tester不可用Download可保留 - 副本 (3)\ClientUI\obj\Debug\MainWindow.g.cs
+C:\Users\Apple\Desktop\WPF2\Tester不可用Download可保留 - 副本 (3)\ClientUI\obj\Debug\App.g.cs
+C:\Users\Apple\Desktop\WPF2\Tester不可用Download可保留 - 副本 (3)\ClientUI\obj\Debug\ClientUI_MarkupCompile.cache
+C:\Users\Apple\Desktop\WPF2\Tester不可用Download可保留 - 副本 (3)\ClientUI\obj\Debug\ClientUI.g.resources
+C:\Users\Apple\Desktop\WPF2\Tester不可用Download可保留 - 副本 (3)\ClientUI\obj\Debug\ClientUI.Properties.Resources.resources
+C:\Users\Apple\Desktop\WPF2\Tester不可用Download可保留 - 副本 (3)\ClientUI\obj\Debug\ClientUI.csproj.GenerateResource.Cache
+C:\Users\Apple\Desktop\WPF2\Tester不可用Download可保留 - 副本 (3)\ClientUI\obj\Debug\ClientUI.exe
+C:\Users\Apple\Desktop\WPF2\Tester不可用Download可保留 - 副本 (3)\ClientUI\obj\Debug\ClientUI.pdb
+C:\Users\Apple\Desktop\WPF2\Tester不可用KAISHI\Debug\ClientUI.exe.config
+C:\Users\Apple\Desktop\WPF2\Tester不可用KAISHI\ClientUI\obj\Debug\ClientUI.exe
+C:\Users\Apple\Desktop\WPF2\Tester不可用KAISHI\ClientUI\obj\Debug\ClientUI.pdb
+C:\Users\Apple\Desktop\WPF2\Tester不可用KAISHI\Debug\ClientUI.exe
+C:\Users\Apple\Desktop\WPF2\Tester不可用KAISHI\Debug\ClientUI.pdb
+C:\Users\Apple\Desktop\WPF2\Tester不可用KAISHI\ClientUI\obj\Debug\ClientUI.csprojResolveAssemblyReference.cache
+C:\Users\Apple\Desktop\WPF2\Tester不可用KAISHI\ClientUI\obj\Debug\MainWindow.baml
+C:\Users\Apple\Desktop\WPF2\Tester不可用KAISHI\ClientUI\obj\Debug\MainWindow.g.cs
+C:\Users\Apple\Desktop\WPF2\Tester不可用KAISHI\ClientUI\obj\Debug\App.g.cs
+C:\Users\Apple\Desktop\WPF2\Tester不可用KAISHI\ClientUI\obj\Debug\ClientUI_MarkupCompile.cache
+C:\Users\Apple\Desktop\WPF2\Tester不可用KAISHI\ClientUI\obj\Debug\ClientUI.g.resources
+C:\Users\Apple\Desktop\WPF2\Tester不可用KAISHI\ClientUI\obj\Debug\ClientUI.Properties.Resources.resources
+C:\Users\Apple\Desktop\WPF2\Tester不可用KAISHI\ClientUI\obj\Debug\ClientUI.csproj.GenerateResource.Cache
+C:\Users\Apple\Desktop\WPF2\project4321 - 副本\Debug\ClientUI.exe.config
+C:\Users\Apple\Desktop\WPF2\project4321 - 副本\ClientUI\obj\Debug\ClientUI.exe
+C:\Users\Apple\Desktop\WPF2\project4321 - 副本\ClientUI\obj\Debug\ClientUI.pdb
+C:\Users\Apple\Desktop\WPF2\project4321 - 副本\Debug\ClientUI.exe
+C:\Users\Apple\Desktop\WPF2\project4321 - 副本\Debug\ClientUI.pdb
+C:\Users\Apple\Desktop\WPF2\project4321 - 副本\ClientUI\obj\Debug\ClientUI.csprojResolveAssemblyReference.cache
+C:\Users\Apple\Desktop\WPF2\project4321 - 副本\ClientUI\obj\Debug\MainWindow.baml
+C:\Users\Apple\Desktop\WPF2\project4321 - 副本\ClientUI\obj\Debug\MainWindow.g.cs
+C:\Users\Apple\Desktop\WPF2\project4321 - 副本\ClientUI\obj\Debug\App.g.cs
+C:\Users\Apple\Desktop\WPF2\project4321 - 副本\ClientUI\obj\Debug\ClientUI_MarkupCompile.cache
+C:\Users\Apple\Desktop\WPF2\project4321 - 副本\ClientUI\obj\Debug\ClientUI.g.resources
+C:\Users\Apple\Desktop\WPF2\project4321 - 副本\ClientUI\obj\Debug\ClientUI.Properties.Resources.resources
+C:\Users\Apple\Desktop\WPF2\project4321 - 副本\ClientUI\obj\Debug\ClientUI.csproj.GenerateResource.Cache
+C:\Users\Apple\Desktop\WPF2\use\Debug\ClientUI.exe.config
+C:\Users\Apple\Desktop\WPF2\use\Debug\ClientUI.exe
+C:\Users\Apple\Desktop\WPF2\use\Debug\ClientUI.pdb
+C:\Users\Apple\Desktop\WPF2\use\ClientUI\obj\Debug\ClientUI.csprojResolveAssemblyReference.cache
+C:\Users\Apple\Desktop\WPF2\use\ClientUI\obj\Debug\MainWindow.baml
+C:\Users\Apple\Desktop\WPF2\use\ClientUI\obj\Debug\MainWindow.g.cs
+C:\Users\Apple\Desktop\WPF2\use\ClientUI\obj\Debug\App.g.cs
+C:\Users\Apple\Desktop\WPF2\use\ClientUI\obj\Debug\ClientUI_MarkupCompile.cache
+C:\Users\Apple\Desktop\WPF2\use\ClientUI\obj\Debug\ClientUI.g.resources
+C:\Users\Apple\Desktop\WPF2\use\ClientUI\obj\Debug\ClientUI.Properties.Resources.resources
+C:\Users\Apple\Desktop\WPF2\use\ClientUI\obj\Debug\ClientUI.csproj.GenerateResource.Cache
+C:\Users\Apple\Desktop\WPF2\use\ClientUI\obj\Debug\ClientUI.exe
+C:\Users\Apple\Desktop\WPF2\use\ClientUI\obj\Debug\ClientUI.pdb
+C:\Users\Apple\Desktop\WPF2\use - 副本\Debug\ClientUI.exe.config
+C:\Users\Apple\Desktop\WPF2\use - 副本\ClientUI\obj\Debug\ClientUI.exe
+C:\Users\Apple\Desktop\WPF2\use - 副本\ClientUI\obj\Debug\ClientUI.pdb
+C:\Users\Apple\Desktop\WPF2\use - 副本\Debug\ClientUI.exe
+C:\Users\Apple\Desktop\WPF2\use - 副本\Debug\ClientUI.pdb
+C:\Users\Apple\Desktop\WPF2\use - 副本\ClientUI\obj\Debug\ClientUI.csprojResolveAssemblyReference.cache
+C:\Users\Apple\Desktop\WPF2\use - 副本\ClientUI\obj\Debug\MainWindow.baml
+C:\Users\Apple\Desktop\WPF2\use - 副本\ClientUI\obj\Debug\MainWindow.g.cs
+C:\Users\Apple\Desktop\WPF2\use - 副本\ClientUI\obj\Debug\App.g.cs
+C:\Users\Apple\Desktop\WPF2\use - 副本\ClientUI\obj\Debug\ClientUI_MarkupCompile.cache
+C:\Users\Apple\Desktop\WPF2\use - 副本\ClientUI\obj\Debug\ClientUI.g.resources
+C:\Users\Apple\Desktop\WPF2\use - 副本\ClientUI\obj\Debug\ClientUI.Properties.Resources.resources
+C:\Users\Apple\Desktop\WPF2\use - 副本\ClientUI\obj\Debug\ClientUI.csproj.GenerateResource.Cache
